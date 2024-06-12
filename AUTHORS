@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+"""
+console.py: basic command line interpreter for our AirBnB website.
+"""
+__authors__ = "Treyvon Turner, Bret Johnson"
+__copyright__ = None
+__status__ = "Development"
+__version__ = 1.0
